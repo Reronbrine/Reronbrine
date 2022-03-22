@@ -19,7 +19,7 @@
   <img align="center" alt="Ryru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ryru-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ryru-Cpp" height="30" width="40" src="https://cdn.discordapp.com/attachments/950792568352948244/955561869161152583/cplusplus-original.png?size=4096">
-  <img align="right" alt="Ryru-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/850789790180704286/955557981121048656/Sasuke.gif?size=4096">
+  <img align="right" alt="Ryru-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/850789790180704286/955959984078860369/Uchiha_Sasuke_live_wallpaper.gif?size=4096">
 </div>
   
  ##
